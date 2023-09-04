@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3aaaa1fc-5091-42c8-804e-c215af969f2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Avaliacao 1/Avaliacao 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Avaliacao 1/src/controller/alunoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Avaliacao 1/src/model/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Avaliacao 1/src/model/ProdutoComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LPOO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 1/Exercicio1/Exercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 1/Lista 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 1/src/controller/CarroController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 1/src/controller/ContaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 1/src/controller/FuncionarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 1/src/controller/ProdutoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 1/src/model/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 1/src/model/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 1/src/model/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 1/src/model/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 1/src/model/ProdutoComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 2/Lista 2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Lista 1/src/controller/CarroController.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2UrRmb7qxMqQPlqy4KiTYGteXcd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/augus/IdeaProjects/LPOO/Avaliacao 1/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.alunoController">
+    <configuration name="CarroController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.CarroController" />
+      <module name="Lista 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContaController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.ContaController" />
+      <module name="Lista 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuncionarioController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.FuncionarioController" />
+      <module name="Lista 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.ProdutoController" />
+      <module name="Lista 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="alunoController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.alunoController" />
+      <module name="Avaliacao 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.alunoController" />
+        <item itemvalue="Application.ProdutoController" />
+        <item itemvalue="Application.ContaController" />
+        <item itemvalue="Application.FuncionarioController" />
+        <item itemvalue="Application.CarroController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aaaa1fc-5091-42c8-804e-c215af969f2d" name="Changes" comment="" />
+      <created>1693695877509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693695877509</updated>
+      <workItem from="1693695878593" duration="945000" />
+      <workItem from="1693696841038" duration="252000" />
+      <workItem from="1693757464115" duration="859000" />
+      <workItem from="1693758340936" duration="4000" />
+      <workItem from="1693763367375" duration="1812000" />
+      <workItem from="1693765205838" duration="7277000" />
+      <workItem from="1693778887994" duration="11000000" />
+      <workItem from="1693790700768" duration="24000" />
+      <workItem from="1693790868467" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
