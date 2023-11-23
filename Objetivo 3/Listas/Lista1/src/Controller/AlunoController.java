@@ -3,10 +3,9 @@ package Controller;
 import Model.Aluno;
 import Model.Disciplina;
 
-import java.util.ArrayList;
+
 import java.util.Comparator;
-import java.util.Date;
-import java.util.List;
+
 
 public class AlunoController {
     public static void main(String[] args) {
